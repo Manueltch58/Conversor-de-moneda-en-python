@@ -1,1 +1,0 @@
-Uno de mis primeros proyectos cuando inicié a programar, un conversor de moneda simple en python
